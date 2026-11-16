@@ -1,0 +1,8 @@
+{
+ "version": "2026.11.16.6",
+ "url": "https://raw.githubusercontent.com/yamchaewoo/print-helper/fe569a3d1cc4ede6567045422e73a056c17fe48c/%EC%9D%B4%EC%A7%80%ED%94%84%EB%A6%B0%ED%8A%B8.exe",
+ "size": 50842891,
+ "sha256": "8691096732e4762bca621ec573ea967cd4410ecf4ae12c8ff9cad58104682811",
+ "notes": "인쇄 중인데 남은 쪽수가 안 나오던 것 고침 (캐논 작업 번호 어긋남)",
+ "date": "2026-11-16T21:30"
+}
